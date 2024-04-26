@@ -37,7 +37,7 @@ Publish the website in the LocalHost.
 <html>
 
 <head>
-    <title>Music</title>
+    <title>Book Cover</title>
     <style>
         .bookpage{
 
@@ -116,19 +116,20 @@ Publish the website in the LocalHost.
         <body>
         <div class="bookpage">
             <div class="insight">
-                CYBER SECURITY
+                AI&DS/ML
             </div>
             <div class="hrstyle">
                 <hr style="color:blanchedalmond">
             </div>
             <div class="booktitle">
-                <h1>CYBER SECURITY IN INDIA</h1></div>
+                <h1>MASTERING THE DATA PARADOX</h1></div>
             <div class="subtitle">
-                 USING AI IN 
+                 The Key To Winning In The AI Age..... 
                  
             </div>
             <div class="subtitle">
-                 CYBER SECURITY
+                 ARTIFICIAL INTELLIGENCE & MACHINE LEARNING <br>
+                 Basics To Mastery!
             </div>
 <br><br>
            
@@ -136,7 +137,7 @@ Publish the website in the LocalHost.
                 <hr style="color:blanchedalmond">
             </div>
             <div class="author">
-               <p><b>MOHAMMED SAAJID S</b></p>
+               <p><b>ARJUN N S</b></p>
             </div>
             <div class="pub">
                 SEC
@@ -146,15 +147,15 @@ Publish the website in the LocalHost.
             </div>
         </div>
         </body>
-        
+        
 
 </html>
 
 ```
 
 ## OUTPUT:
+![image](https://github.com/NSArjun/cover/assets/148233801/2dee3d40-60a6-44fe-84a9-3a87bf0aa976)
 
-![alt text](cover.png)
 
 
 
